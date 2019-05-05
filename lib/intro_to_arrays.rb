@@ -1,3 +1,4 @@
 my_new_array = [a, b, c]
 
-def 
+def instantiate_new_array
+  
